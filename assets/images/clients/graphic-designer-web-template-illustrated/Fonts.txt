@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Kirang Haerang
+Author: Woowahan Brothers
+Url: https://www.fontsquirrel.com/fonts/kirang-haerang
+
+Font: Inter
+Author: Rasmus Andersson
+Url: https://www.fontsquirrel.com/fonts/inter
